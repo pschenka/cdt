@@ -1,4 +1,4 @@
-# vita
+
 Projekt CDT
 ===========
 Constant Database Table = jedna tabulka konstantní (neměnitelné) databáze
